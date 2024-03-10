@@ -1,0 +1,5 @@
+- Drag and drop resources file
+- Go to server.cfg
+- Ensure henox-npcdoc 
+- Restart your server
+- Done
